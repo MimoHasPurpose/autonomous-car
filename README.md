@@ -1,5 +1,6 @@
 <p
 align="center" 
+color="blue"
 > Simulating self-driving 🚗 in javascript
 </p>
 
