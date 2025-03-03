@@ -1,10 +1,46 @@
+<center style=
+    "
+    background-color:   #e8d8d4 ;
+    border-radius:8px;
+    color: #622b1f ;
+    font-size:30px;
+    font-family:cursive;
+    "
+> Simulating self-driving 🚗 in javascript
+</center>
 
-##### Autonomous car in javascript!!
+##### Abstract:
 
--   Car physics
--   Road generation
--   Sensors
--   Collisions [segment intersection]
--   Neural Network [create and visualize neural network]
--   Genetic Algorithms [to optimize faster]
+---
 
+##### Introduction:
+
+---
+
+##### Video:
+
+
+---
+
+##### Images:
+
+
+---
+
+##### Diagrams:
+
+
+---
+
+##### Formulaes:
+
+
+---
+
+##### References:
+
+
+
+---
+
+#### @Contributors:
