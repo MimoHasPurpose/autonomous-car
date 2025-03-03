@@ -1,8 +1,8 @@
-<p
+<h4
 align="center" 
-color="blue"
+
 > Simulating self-driving 🚗 in javascript
-</p>
+</h4>
 
 
 ##### Abstract:
