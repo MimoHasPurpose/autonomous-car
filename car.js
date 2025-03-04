@@ -12,7 +12,10 @@
         this.controls=new Controls();
     }
     update(){
-        //speed controls, acceleration and friciton
+        this.#move();
+        }
+        #move(){
+            //speed controls, acceleration and friciton
         if(this.controls.forward){
             this.speed+=this.acceleration;
         }
@@ -34,15 +37,18 @@
         if(Math.abs(this.speed)<this.friction){
             this.speed=0;
         }
+        if(this.speed!=0){
+            const flip=this.speed>0?1:-1;
+            //left and right controls.
+            if(this.controls.left){
+                this.angle+=0.03*flip;
+            }
+            if(this.controls.right){
+                this.angle-=0.03*flip;
+            }
+        }
 
-        //left and right controls.
         
-        if(this.controls.left){
-            this.angle+=0.03;
-        }
-        if(this.controls.right){
-            this.angle-=0.03;
-        }
         this.x-=Math.sin(this.angle)*this.speed;
         this.y-=Math.cos(this.angle)*this.speed;
 
