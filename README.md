@@ -10,6 +10,16 @@
 
 ---
 
+##### Process:
+    - Car driving mechanism
+    - Road Definition
+    - Artificial Sensors
+    - Collision Detection
+    - Traffic Simulation
+    - Neural Networks
+    - Visualizing NN
+    - Optimizing NN
+    - Fine Tuning
 ##### Video:
 
 
