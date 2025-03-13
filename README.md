@@ -23,7 +23,7 @@
 ##### Video:
 
 
-[![Video Title](data/car.svg)](https://youtube.com/shorts/sUUOPpgyAvM?feature=share)
+[![Video Title](data/car.svg)](https://youtube.com/shorts/sUUOPpgyAvM)
 ---
 
 ##### Images:
