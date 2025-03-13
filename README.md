@@ -54,3 +54,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
 
 ###### Extras:
 - use excaldraw extension to read the `excalidraw.png`
+
+##### Flow:
+![Screenshot from 2025-03-13 08-58-56](https://github.com/user-attachments/assets/47354913-d967-4457-950f-e6f950477606)
