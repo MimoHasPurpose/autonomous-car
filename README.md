@@ -22,7 +22,7 @@
     - 9.Fine Tuning
 ##### Video:
 
-[![Watch the video](data/car.svg)](data/car-demo.webm)
+[![Watch the video](data/car.svg)]([data/car-demo.webm](https://youtube.com/shorts/sUUOPpgyAvM?feature=share))
 ---
 
 ##### Images:
