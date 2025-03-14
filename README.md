@@ -89,3 +89,11 @@ https://github.com/user-attachments/assets/2f1830af-e805-406a-abb3-e25c168ef354
 - install live-server extension
 - open `index.html` file
 - run this file using `live-server` extension
+
+
+
+
+
+###### Research Papers:
+1. [Autonomous Vehicle](https://github.com/sahil3028/autonomous-car/blob/main/data/Autonomous_Vehicles.pdf)
+2. [Challanges to autonomous vehicle](https://github.com/sahil3028/autonomous-car/blob/main/data/challenges_to_autonomous_vehicle.pdf)
