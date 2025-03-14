@@ -90,10 +90,11 @@ https://github.com/user-attachments/assets/2f1830af-e805-406a-abb3-e25c168ef354
 - open `index.html` file
 - run this file using `live-server` extension
 
+---
 
-
-
-
-###### Research Papers:
+###### <h5>Research Papers:</h5>
 1. [Autonomous Vehicle](https://github.com/sahil3028/autonomous-car/blob/main/data/Autonomous_Vehicles.pdf)
 2. [Challanges to autonomous vehicle](https://github.com/sahil3028/autonomous-car/blob/main/data/challenges_to_autonomous_vehicle.pdf)
+3. [autonomous planes and other types of vehicles which can be automated](https://github.com/sahil3028/autonomous-car/blob/main/data/Autonomous%20Planes%20and%20Other%20Automated%20Vehicles.pdf)
+4. [Future of autonomous vehicle](https://github.com/sahil3028/autonomous-car/blob/main/data/The_Future_of_Automated_and_Autonomous_Vehicles.pdf)
+5. <a href="data/Autonomous_Vehicles.pdf">Autonomous_Vehicles</a>
