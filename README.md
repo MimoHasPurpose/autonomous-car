@@ -31,7 +31,12 @@ I made this project to demonstrate learning to self-drive a car using Neural net
 
 https://github.com/user-attachments/assets/993aa621-bf84-42ef-b187-e5ff9dbedd1a
 <h4 align="center">Basic working of car</h4>
-https://github.com/user-attachments/assets/0563746b-b20d-47ce-89e3-a7e5992f692f
+
+
+
+https://github.com/user-attachments/assets/2f1830af-e805-406a-abb3-e25c168ef354
+
+
 <h4 align="center">Final demonstration of car</h4>
 
 ---
