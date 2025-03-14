@@ -4,6 +4,7 @@ class Controls{
         this.left=false;
         this.right=false;
         this.reverse=false;
+
         switch(type){
             case "KEYS":
                 this.#addKeyboardListeners();
@@ -12,8 +13,8 @@ class Controls{
                 this.forward=true;
                 break;
         }
-        
     }
+
     #addKeyboardListeners(){
         document.onkeydown=(event)=>{
             switch(event.key){
@@ -30,7 +31,6 @@ class Controls{
                     this.reverse=true;
                     break;
             }
-            console.table(this);
         }
         document.onkeyup=(event)=>{
             switch(event.key){
@@ -47,7 +47,6 @@ class Controls{
                     this.reverse=false;
                     break;
             }
-            console.table(this);
         }
     }
 }

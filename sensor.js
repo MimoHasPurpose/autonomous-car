@@ -1,9 +1,9 @@
 class Sensor{
     constructor(car){
         this.car=car;
-        this.rayCount=10;
-        this.rayLength=220;
-        this.raySpread=Math.PI/10;
+        this.rayCount=5;
+        this.rayLength=150;
+        this.raySpread=Math.PI/2;
 
         this.rays=[];
         this.readings=[];
@@ -14,7 +14,11 @@ class Sensor{
         this.readings=[];
         for(let i=0;i<this.rays.length;i++){
             this.readings.push(
-                this.#getReading(this.rays[i],roadBorders,traffic)
+                this.#getReading(
+                    this.rays[i],
+                    roadBorders,
+                    traffic
+                )
             );
         }
     }
@@ -33,6 +37,7 @@ class Sensor{
                 touches.push(touch);
             }
         }
+
         for(let i=0;i<traffic.length;i++){
             const poly=traffic[i].polygon;
             for(let j=0;j<poly.length;j++){
@@ -47,6 +52,7 @@ class Sensor{
                 }
             }
         }
+
         if(touches.length==0){
             return null;
         }else{
