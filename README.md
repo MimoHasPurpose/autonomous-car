@@ -3,7 +3,7 @@
 
 
 ##### Abstract:
-
+I made this project to demonstrate learning to self-drive a car using Neural network. To stimulate the vehicle I  used canvas_API and connected the controls with a neural network. The neural network had 5 inputs and 4 outputs.The changing of weights is visualized in the application to visualize how network works.The Network has to be manually trained and the optimum version can be saved and reused. The use of this project lies in demonstrating how Neural networks learn to control a vehicle.
 
 ---
 
@@ -36,6 +36,8 @@ https://github.com/user-attachments/assets/993aa621-bf84-42ef-b187-e5ff9dbedd1a
 ---
 
 ##### Diagrams:
+![Screenshot from 2025-03-14 19-47-55](https://github.com/user-attachments/assets/bbd0a5d9-fee4-48bb-acda-7ad7487119c5) 
+<h4 align="center">Diagramtic representation of Car and NN ⬆️</h4>
 
 
 ---
