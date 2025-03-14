@@ -43,16 +43,20 @@ https://github.com/user-attachments/assets/993aa621-bf84-42ef-b187-e5ff9dbedd1a
 ##### Formulaes:
 
 
+
 ---
 
 ##### References:
-https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
-https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
+1. [Canvas_api](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+2. [canvas rendering](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
 
 
 ---
 
 #### @Contributors:
+<a href="https://github.com/MimoHasPurpose/autonomous-car/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MimoHasPurpose/autonomous-car" />
+</a>
 
 
 
@@ -62,3 +66,11 @@ https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
 
 ##### Flow:
 ![Screenshot from 2025-03-13 08-58-56](https://github.com/user-attachments/assets/47354913-d967-4457-950f-e6f950477606)
+
+
+##### How to Run:
+- fork this repo
+    - ```git clone https://github.com/MimoHasPurpose/autonomous-car.git```
+- install live-server extension
+- open `index.html` file
+- run this file using `live-server` extension
