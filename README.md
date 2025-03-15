@@ -92,9 +92,9 @@ https://github.com/user-attachments/assets/2f1830af-e805-406a-abb3-e25c168ef354
 
 ---
 
-###### <h5>Research Papers:</h5>
+## References
+<a href="data/Autonomous_Vehicles.pdf">Autonomous Vehicle </a>   
+<a href="data/challenges_to_autonomous_vehicle.pdf">Challanges to autonomous vehicle</a>   
+<a href="data/Autonomous%20Planes%20and%20Other%20Automated%20Vehicles.pdf">autonomous planes and other types of vehicles which can be automated </a>  
+<a href="The_Future_of_Automated_and_Autonomous_Vehicles.pdf">Future of autonomous vehicle </a>
 
-1. [Autonomous Vehicle](data/Autonomous_Vehicles.pdf)
-2. [Challanges to autonomous vehicle](data/challenges_to_autonomous_vehicle.pdf)
-3. [autonomous planes and other types of vehicles which can be automated](data/Autonomous%20Planes%20and%20Other%20Automated%20Vehicles.pdf)
-4. [Future of autonomous vehicle](The_Future_of_Automated_and_Autonomous_Vehicles.pdf)
