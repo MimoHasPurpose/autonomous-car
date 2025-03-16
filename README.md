@@ -104,5 +104,5 @@ https://github.com/user-attachments/assets/ed0d41e1-6438-42ab-bb9b-b6ba3b5bd8f4
 -  <a href="papers/Autonomous_Vehicles.pdf">Autonomous Vehicle </a> 
 - <a href="papers/challenges_to_autonomous_vehicle.pdf">Challanges to autonomous vehicle</a> 
 - <a href="papers/Autonomous%20Planes%20and%20Other%20Automated%20Vehicles.pdf">autonomous planes and other types of vehicles which can be automated </a>,
-- <a href="The_Future_of_Automated_and_Autonomous_Vehicles.pdf">Future of autonomous vehicle </a> 
+- <a href="papers/The_Future_of_Automated_and_Autonomous_Vehicles.pdf">Future of autonomous vehicle </a> 
 
