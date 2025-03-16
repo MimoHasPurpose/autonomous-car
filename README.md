@@ -12,6 +12,9 @@ I made this project to demonstrate learning to self-drive a car using Neural net
 
 
 ##### Introduction:
+The project is a implementation of car which is driven by a neural network, the network controls the car based on signal inputs and weights. To implement the car i used javascript. In javascript i used cavasAPI and basic mathematical functions.
+
+
 
 ---
 
