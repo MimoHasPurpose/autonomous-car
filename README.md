@@ -57,9 +57,14 @@ https://github.com/user-attachments/assets/2f1830af-e805-406a-abb3-e25c168ef354
 
 
 ---
+##### Explanation:
+
+
+https://github.com/user-attachments/assets/ed0d41e1-6438-42ab-bb9b-b6ba3b5bd8f4
+
+
 
 ##### Formulaes:
-
 
 
 ---
