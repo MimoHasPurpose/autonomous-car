@@ -72,8 +72,6 @@ https://github.com/user-attachments/assets/ed0d41e1-6438-42ab-bb9b-b6ba3b5bd8f4
 ##### References:
 1. [Canvas_api](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 2. [canvas rendering](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
-
-
 ---
 
 #### @Contributors:
