@@ -1,12 +1,21 @@
 body{
-    background-color: green;
+    background-color: white;
     opacity: 0.9;
     margin: auto;
 }
-#myCanvas{
-    border: 2px solid black;
-    border-radius: 10px;
-    background-color:white;
-    margin-left: 490px;
-    margin-top: 200px;
+.c{ 
+    display: flex;
+    justify-content: space-around;
+  
+}
+.c> div{
+    width: 800px;
+    height: 900px;
+    padding: 8px;
+    margin: 10px;
+    border: 1px solid goldenrod;/
+}
+.c{
+    /* background-image: url(data/image.png); */
+    /* opacity: .4; */
 }
